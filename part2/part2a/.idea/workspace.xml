@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e04ddae4-182f-49cc-ab0f-27a47caf689f" name="Default Changelist" comment="" />
+    <list default="true" id="e04ddae4-182f-49cc-ab0f-27a47caf689f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../countries/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/src/Countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/src/Country.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/services/persons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part1/part1d" beforeDir="false" afterPath="$PROJECT_DIR$/../../part1/part1d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseinfo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../courseinfo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseinfo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../courseinfo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Note.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Note.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1jPpIAxmmQWMKLyW85wjyazAuGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,11 +41,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../courseinfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria.gregorio\dev\fullstackopen2020\part2\part2a" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +65,13 @@
       <updated>1603715498307</updated>
       <workItem from="1603715502366" duration="2698000" />
       <workItem from="1603723169457" duration="9000" />
+      <workItem from="1603761415423" duration="1413000" />
+      <workItem from="1603803318148" duration="18000" />
+      <workItem from="1604111081865" duration="29000" />
+      <workItem from="1604178974226" duration="211000" />
+      <workItem from="1604341819159" duration="4113000" />
+      <workItem from="1604542374379" duration="3115000" />
+      <workItem from="1604594925463" duration="835000" />
     </task>
     <servers />
   </component>
@@ -40,9 +79,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603723175958">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1604179183173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1603723175958" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604179183173" />
   </component>
 </project>

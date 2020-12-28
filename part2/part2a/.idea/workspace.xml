@@ -2,27 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e04ddae4-182f-49cc-ab0f-27a47caf689f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../countries/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../countries/src/Countries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../countries/src/Country.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseinfo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Notification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/notes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phonebook/src/Filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phonebook/src/Person.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phonebook/src/services/persons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/part_a/models/note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/part_a/mongo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/phonebook/Procfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/phonebook/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/phonebook/models/person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part3/phonebook/mongo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../part1/part1d" beforeDir="false" afterPath="$PROJECT_DIR$/../../part1/part1d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseinfo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../courseinfo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseinfo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../courseinfo/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Note.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Note.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../phonebook/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/Numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../phonebook/src/Numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/services/persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../phonebook/src/services/persons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/part_a/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../part3/part_a/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/part_a/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../part3/part_a/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/part_a/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../part3/part_a/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/phonebook/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../part3/phonebook/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/phonebook/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../part3/phonebook/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,14 @@
       <workItem from="1604341819159" duration="4113000" />
       <workItem from="1604542374379" duration="3115000" />
       <workItem from="1604594925463" duration="835000" />
+      <workItem from="1605674410056" duration="808000" />
+      <workItem from="1605730045432" duration="16000" />
+      <workItem from="1605730602825" duration="2078000" />
+      <workItem from="1605757523781" duration="114000" />
+      <workItem from="1605905356598" duration="319000" />
+      <workItem from="1606589691787" duration="201000" />
+      <workItem from="1606682690154" duration="258000" />
+      <workItem from="1609165803805" duration="605000" />
     </task>
     <servers />
   </component>
@@ -79,9 +85,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1604179183173">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605905677716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604179183173" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1605905677716" />
   </component>
 </project>

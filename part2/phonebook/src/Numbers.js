@@ -6,7 +6,7 @@ const Numbers = ({filteredPersons, deletePerson}) => {
         <>
             <h2>Numbers</h2>
             {filteredPersons.length > 0
-                ? filteredPersons.map(person => <Person key={person.name} person={person} deletePerson={deletePerson} />)
+                ? filteredPersons.map(person => <Person key={person.id} person={person} deletePerson={deletePerson} />)
                 : <p>No persons found</p>}
         </>
     )
